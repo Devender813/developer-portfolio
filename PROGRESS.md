@@ -5,21 +5,21 @@
 
 ## HackerRank
 
-- Profile URL : https://www.hackerrank.com/profile/[your-username]
+- Profile URL : https://www.hackerrank.com/profile/Devender
 - Problems solved : [number] ([names])
 - Skill test taken : Python (Basic) — [taken / not yet]
-- Certificate : [Earned / Pending] | [Certificate URL if earned]
+- Certificate :  {Pending] | [Certificate URL if earned]
 
 ## LeetCode
 
-- Profile URL : https://leetcode.com/u/[your-username]
+- Profile URL : https://leetcode.com/u/Devender
 - Easy attempted : [number] (Two Sum, Palindrome Number)
 - Easy solved : [number]
 - Medium attempted : 0
 
 ## freeCodeCamp
 
-- Profile URL : https://www.freecodecamp.org/[your-username]
+- Profile URL : https://www.freecodecamp.org/Devender
 - Current track : Responsive Web Design
 - Steps completed : [number] / approx. 300 hours for full certification
 
